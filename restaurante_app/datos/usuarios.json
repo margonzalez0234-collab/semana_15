@@ -1,0 +1,20 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Carlos Navas",
+        "usuario": "cnavas",
+        "contrasena": "cnavas123"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "Luis Sanchez",
+        "usuario": "lsanchez",
+        "contrasena": "lsanchez123"
+    },
+    {
+        "identificacion": "U003",
+        "nombre": "Samantha Pereira",
+        "usuario": "spereira",
+        "contrasena": "spereira123"
+    }
+]

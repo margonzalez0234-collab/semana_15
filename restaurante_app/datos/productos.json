@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Hamburguesa clasica",
+        "precio": 15.5,
+        "descripcion": "Hamburguesa clasica con queso, lechuga y tomate"
+    },
+    {
+        "nombre": "Pizza de pepperoni",
+        "precio": 20.25,
+        "descripcion": "Pizza de pepperoni con queso y pepperoni"
+    },
+    {
+        "nombre": "Ensalada cesar",
+        "precio": 12.0,
+        "descripcion": "Ensalada cesar con pollo y aderezo"}
+]
